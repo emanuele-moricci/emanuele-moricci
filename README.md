@@ -46,9 +46,17 @@
 
 ## 🧑🏾‍💻 What am I working on?
 
-- Currently working on a Graphql API with Apollo Federation + React with Next.js project to learn the ecosystem.
-- ??? 😏
-
+- ⚡ Currently working on a Graphql API with Apollo Federation + React with Next.js project to learn the ecosystem:
+  - GraphQL with Apollo Federation and Prisma
+  - React with NextJS
+  - Docker setup
+  - Generator CLI with Plop&Handlebars
+- 🚀 Next steps:
+  - Create a GraphQL+Typescript Boilerplate
+  - Improve in Laravel
+  - Learn Kotlin
+  - Learn Python
+  - **A S C E N D**
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-moricci&langs_count=10&layout=compact&card_width=950)
