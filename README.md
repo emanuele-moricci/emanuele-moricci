@@ -1,7 +1,4 @@
-<h1 align=center>Hello there 👋, My name is Emanuele Moricci</h1>
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/emanuelemoricci-777b44173/)](https://www.linkedin.com/in/emanuelemoricci-777b44173/) 
-[![Gmail Badge](https://img.shields.io/badge/-emanuele.moricci@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emanuele.moricci@gmail.com)](mailto:emanuele.moricci@gmail.com) 
+![Alt Text](https://github.com/emanuele-moricci/emanuele-moricci/blob/main/type-it-intro.gif)
 
 ## ⁉️ Who am I?
 - 💻 Passionate Software Dev since 2010
@@ -9,6 +6,9 @@
 - 🔧 Working full-time as a Security&Performance PHP Dev
 - ✨ Driven to create code that enhances the Developer Experience
 - 🐉 Avid D&D Player by night
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/emanuelemoricci-777b44173/)](https://www.linkedin.com/in/emanuelemoricci-777b44173/) 
+[![Gmail Badge](https://img.shields.io/badge/-emanuele.moricci@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emanuele.moricci@gmail.com)](mailto:emanuele.moricci@gmail.com) 
 
 ## 🧠 What Languages do I know?
 ### Frameworks
