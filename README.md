@@ -3,7 +3,7 @@
 ## ⁉️ Who am I?
 - 💻 Passionate Software Dev since 2010
 - 📚 Learning the React+GraphQL ecosystems
-- 🔧 Working full-time as a Security&Performance PHP Dev
+- 🔧 Working full-time as a Security&Performance Developer
 - ✨ Driven to create code that enhances the Developer Experience
 - 🐉 Avid D&D Player by night
 
@@ -52,10 +52,12 @@
   - Docker setup
   - Generator CLI with Plop&Handlebars
 - 🚀 Next steps:
-  - Create a GraphQL+Typescript Boilerplate
-  - Improve in Laravel
-  - Learn Kotlin
-  - Learn Python
+  - Improve NextJS & React Native
+  - Improve Laravel
+  - Improve Docker
+  - Learn Rust
+  - Learn Kotlin & Swift
+  - Learn Unity Game Development
   - **A S C E N D**
 <br />
 
