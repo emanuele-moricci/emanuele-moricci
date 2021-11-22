@@ -37,7 +37,7 @@
 ![GraphQL Badge](https://img.shields.io/badge/-Docker-%232496ED?logo=docker&logoColor=white&style=flat-square)
 ![GraphQL Badge](https://img.shields.io/badge/-Node.js-%23339933?logo=node.js&logoColor=white&style=flat-square)
 ![GraphQL Badge](https://img.shields.io/badge/-VirtualBox-%23183A61?logo=virtualbox&logoColor=white&style=flat-square)
-![GraphQL Badge](https://img.shields.io/badge/-Stoorybook-%23FF4785?logo=storybook&logoColor=white&style=flat-square)
+![GraphQL Badge](https://img.shields.io/badge/-Storybook-%23FF4785?logo=storybook&logoColor=white&style=flat-square)
 
 ### Databases & ORMs
 ![GraphQL Badge](https://img.shields.io/badge/-Prisma-%232D3748?logo=prisma&logoColor=white&style=flat-square)
