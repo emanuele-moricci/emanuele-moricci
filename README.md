@@ -2,9 +2,9 @@
 
 ## ⁉️ Who am I?
 - 💻 Passionate Software Dev since 2010
-- 📚 Learning the React+GraphQL ecosystems
-- 🔧 Working full-time as a Security&Performance Developer
-- ✨ Driven to create code that enhances the Developer Experience
+- 📚 Focused on the React+GraphQL ecosystems
+- 🔧 Working full-time as a Senior Frontend Developer
+- ✨ Driven to create code that enhances the Developer&User Experience
 - 🐉 Avid D&D Player by night
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/emanuelemoricci-777b44173/)](https://www.linkedin.com/in/emanuelemoricci-777b44173/) 
@@ -46,15 +46,15 @@
 
 ## 🧑🏾‍💻 What am I working on?
 
-- ⚡ Currently working on a Graphql API with Apollo Federation + React with Next.js project to learn the ecosystem:
-  - GraphQL with Apollo Federation and Prisma
-  - React with NextJS
+- ⚡ Currently working on a personal project using the GraphQL and React ecosystems:
+  - GraphQL-Powered NodeJS API with Apollo Server and Prisma
+  - React with the NextJS Framework + Apollo Client
+  - TailwindCSS with DaisyUI for styling
   - Docker setup
   - Generator CLI with Plop&Handlebars
 - 🚀 Next steps:
-  - Improve NextJS & React Native
+  - Improve React Native
   - Improve Laravel
-  - Improve Docker & Learn Kubernetes
   - Learn Deno
   - Learn Unity Game Development
   - Learn Rust
@@ -63,3 +63,4 @@
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-moricci&langs_count=10&layout=compact&card_width=950)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuele-moricci&show_icons=true)
