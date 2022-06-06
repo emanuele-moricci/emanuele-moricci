@@ -64,5 +64,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-moricci&langs_count=10&layout=compact&card_width=950)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuele-moricci&show_icons=true)
+
 <br />
-<a href="https://app.daily.dev/EmaIsHere"><img src="https://api.daily.dev/devcards/1edc49553f164223a9c9adeafe3eec02.png?r=ekw" width="400" alt="Emanuele Andres Moricci's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/emanuele-moricci/emanuele-moricci/blob/main/devcard.svg" width="400" alt="Ema's Dev Card"/></a>
