@@ -45,9 +45,4 @@
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=white&style=flat-square)
 
 <br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-moricci&langs_count=10&layout=compact&card_width=950)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuele-moricci&show_icons=true)
-
-<br />
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/emanuele-moricci/emanuele-moricci/blob/main/devcard.svg" width="400" alt="Ema's Dev Card"/></a>
