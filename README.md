@@ -7,7 +7,7 @@
 - ✨ Driven to create code that enhances the Developer&User Experience
 - 🐉 Avid D&D Player by night
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/emanuelemoricci-777b44173/)](https://www.linkedin.com/in/emanuelemoricci-777b44173/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/emanuele-moricci-777b44173/)](https://www.linkedin.com/in/emanuelemoricci-777b44173/) 
 [![Gmail Badge](https://img.shields.io/badge/-emanuele.moricci@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emanuele.moricci@gmail.com)](mailto:emanuele.moricci@gmail.com) 
 
 ## 🧠 What Languages do I know?
