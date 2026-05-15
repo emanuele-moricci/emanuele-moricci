@@ -44,22 +44,6 @@
 ![Postgres Badge](https://img.shields.io/badge/-Postgres-%234169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=white&style=flat-square)
 
-## 🧑🏾‍💻 What am I working on?
-
-- ⚡ Currently working on a personal project using the GraphQL and React ecosystems:
-  - GraphQL-Powered NodeJS API with Apollo Server and Prisma
-  - React with the NextJS Framework + Apollo Client
-  - TailwindCSS with DaisyUI for styling
-  - Docker setup
-  - Generator CLI with Plop&Handlebars
-- 🚀 Next steps:
-  - Improve React Native
-  - Improve Laravel
-  - Learn Deno
-  - Learn Unity Game Development
-  - Learn Rust
-  - Learn Kotlin & Swift
-  - **A S C E N D**
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-moricci&langs_count=10&layout=compact&card_width=950)
